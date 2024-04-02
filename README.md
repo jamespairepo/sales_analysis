@@ -1,3 +1,3 @@
-## Sales Analysis 
+# Sales Analysis 
 
 Data Analysis Exercises
