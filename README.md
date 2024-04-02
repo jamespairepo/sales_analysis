@@ -1,3 +1,3 @@
 # Sales Analysis 
 
-Data Analysis Exercises
+Data Analysis Basic Skill Comprehension Exercises
